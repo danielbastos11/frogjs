@@ -1,4 +1,4 @@
-const q = require('../dist/frog');
+const q = require('../index.js');
 const expect = require('chai').expect;
 
 describe('Quantifiers', () => {

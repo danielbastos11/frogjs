@@ -33,5 +33,11 @@
         ]
       }
     }
+  },
+  "@std/esm": {
+    "esm": "js"
+  },
+  "dependencies": {
+    "@std/esm": "^0.7.1"
   }
 }
